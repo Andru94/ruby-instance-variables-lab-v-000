@@ -11,6 +11,5 @@ class Dog
   def bark
     puts 'woof!'
 
-Dog.name = 'ginger'
 
 end
