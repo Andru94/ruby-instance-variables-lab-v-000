@@ -7,5 +7,7 @@ class Dog
   def name
     @this_dogs_name
   end
+
+Dog.name = 'ginger'
+
 end
- 
